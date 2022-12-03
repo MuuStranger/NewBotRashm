@@ -492,8 +492,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                   [
                            [
-                            InlineKeyboardButton('⚒ 𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟', url=f"https://t.me/Movie_Meadia"),
-                            InlineKeyboardButton('📌 𝗠𝗬 𝗚𝗥𝗢𝗨𝗣', url=f"https://t.me/MM_Archives")
+                            InlineKeyboardButton('⚒ 𝗠𝗬 𝗖𝗛𝗔𝗡𝗡𝗘𝗟', url=f"https://t.me/Movie_Collections_Channel"),
+                            InlineKeyboardButton('📌 𝗠𝗬 𝗚𝗥𝗢𝗨𝗣', url=f"https://t.me/MCC_OTT")
                           ]
                         ]
                     )
@@ -775,7 +775,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     InlineKeyboardButton('⚠️ 𝐇𝐄𝐋𝐏', callback_data='help'),
                     InlineKeyboardButton('⚙ 𝐀𝐁𝐎𝐔𝐓', callback_data='about')
                   ],[
-                    InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀', url="https://t.me/MM_DVD_UPDATES") 
+                    InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀', url="https://t.me/DVD_OTT_UPDATES_CHANNEL") 
                    ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -839,7 +839,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝐇𝐨𝐦𝐞', callback_data='start'),
             InlineKeyboardButton('𝐒𝐭𝐚𝐭𝐮𝐬', callback_data='stats')
          ],[
-            InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀', url="https://t.me/MM_DVD_UPDATES")
+            InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀', url="https://t.me/DVD_OTT_UPDATES_CHANNEL")
         ]]
         
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -861,7 +861,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('𝐇𝐨𝐦𝐞', callback_data='start'),
             InlineKeyboardButton('𝐂𝐥𝐨𝐬𝐞', callback_data='close_data')
         ],[
-            InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀', url="https://t.me/MM_DVD_UPDATES")
+            InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀', url="https://t.me/DVD_OTT_UPDATES_CHANNEL")
         ]]
         await client.edit_message_media(
             query.message.chat.id, 
@@ -876,7 +876,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀', url="https://t.me/MM_DVD_UPDATES") 
+            InlineKeyboardButton('📀 𝗗𝗩𝗗 𝗨𝗣𝗗𝗔𝗧𝗘𝗦 📀', url="https://t.me/DVD_OTT_UPDATES_CHANNEL") 
         ],[
             InlineKeyboardButton('⟸ Bᴀᴄᴋ', callback_data='about')
         ]]
