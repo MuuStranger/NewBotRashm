@@ -7,7 +7,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : {} 
 ➪ 𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href="https://t.me/MccAssistBot">ʜᴇʀᴇ</a>
-➪ 𝑫𝒆𝒗𝒐𝒍𝒐𝒑𝒆𝒓 : <a href="https://t.me/Movie_Collections_Channel">𝑴𝒐𝒗𝒊𝒆 𝑴𝒆𝒂𝒅𝒊𝒂</a>
+➪ 𝑫𝒆𝒗𝒐𝒍𝒐𝒑𝒆𝒓 : <a href="https://t.me/Movie_Collections_Channel">𝑴𝑪𝑪 𝑩𝑶𝑻𝑺</a>
 ➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : <a href='https://docs.pyrogram.org/'>𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎</a>
 ➪ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : <a href='https://docs.pyrogram.org/'>𝑷𝒚𝒕𝒉𝒐𝒏 3</a>
 ➪ 𝑫𝒂𝒕𝒂 𝒃𝒂𝒔𝒆 : <a href='https://www.mongodb.com/'>𝑴𝒐𝒏𝒈𝒐𝑫𝑩</a>
@@ -39,7 +39,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/bots_supported)</code>
+<code>[Button Text](buttonurl:https://t.me/mcc_ott)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -187,7 +187,7 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @bots_supported
+▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @mcc_ott
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
